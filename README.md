@@ -1,4 +1,4 @@
-Este projeto de extensão é vinculado ao projeto de pesquisa de processo 2022/03020-1 da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP): https://bv.fapesp.br/pt/auxilios/112002/normalizacao-de-corantes-he-por-autocodificadores-com-analises-de-ensemble-learning-para-imagens-his/.
+Este projeto de extensão é vinculado ao projeto de pesquisa do processo 2022/03020-1 da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP): https://bv.fapesp.br/pt/auxilios/112002/normalizacao-de-corantes-he-por-autocodificadores-com-analises-de-ensemble-learning-para-imagens-his/.
 
 Se utilizar qualquer material disponibilizado, por favor, use uma das citações abaixo do nosso projeto:
 
